@@ -13,5 +13,5 @@ jobs:
       with:
         server: files.000webhost.com
         username: projetdocker
-        password: 1)tFGxpEAnRAHMx1SdoV
+        password: FGxpEAnRAHMx1SdoV
         server-dir : public_html/
